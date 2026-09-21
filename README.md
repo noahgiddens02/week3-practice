@@ -2,4 +2,6 @@
 
 Hello Douglas Douglas
 
-Hellow Parkers Parkers
+Hello Parkers Parkers
+
+This is an intro to a common goof by the YT channel DougDoug
